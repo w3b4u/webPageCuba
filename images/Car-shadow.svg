@@ -1,0 +1,33 @@
+<svg width="1170" height="8" viewBox="0 0 1170 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.5" filter="url(#filter0_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M585 7C908.087 7 1170 5.433 1170 3.5C1170 1.567 908.087 0 585 0C261.913 0 0 1.567 0 3.5C0 5.433 261.913 7 585 7Z" fill="#212020"/>
+</g>
+<g opacity="0.3" filter="url(#filter1_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M864 8C906.526 8 941 6.20914 941 4C941 1.79086 906.526 0 864 0C821.474 0 787 1.79086 787 4C787 6.20914 821.474 8 864 8Z" fill="black"/>
+</g>
+<g opacity="0.3" filter="url(#filter2_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M188 8C230.526 8 265 6.20914 265 4C265 1.79086 230.526 0 188 0C145.474 0 111 1.79086 111 4C111 6.20914 145.474 8 188 8Z" fill="black"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="-5.43656" y="-5.43656" width="1180.87" height="17.8731" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.71828" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_f" x="773.409" y="-13.5914" width="181.183" height="35.1828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="6.7957" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter2_f" x="97.4086" y="-13.5914" width="181.183" height="35.1828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="6.7957" result="effect1_foregroundBlur"/>
+</filter>
+<clipPath id="clip0">
+<rect width="1170" height="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
