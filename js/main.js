@@ -9,14 +9,13 @@ $(function(){
         prevArrow: '<button type="button" class="slick-prev"><img src="images/prevarrow.svg" alt="Arrow-left"></button>',
         nextArrow: '<button type="button" class="slick-next"><img src="images/nextarrow.svg" alt="Arrow-right"></button>',
         dots: false,
-        autoplay: false,
-        autoplaySpeed: 2000,
         responsive: [{
             breakpoint: 740,
             settings: {
                 arrows: false,
                 dots: true,
-                autoplay: true
+                autoplay: true,
+                autoplaySpeed: 2000
             }
         }]
     });
