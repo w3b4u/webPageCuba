@@ -585,6 +585,7 @@ ul{
 @media (max-width: 700px){
     .header__top{
         padding: 25px;
+        background-position: 30%;
     }
     .header__top-inner{
         border-bottom: 2px solid #ECB84C;
