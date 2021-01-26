@@ -472,10 +472,6 @@ ul{
     display: none;
     text-align: center;
 }
-.css__validator{
-    text-align: center;
-    padding-top: 10px;
-}
 
 
 
@@ -645,7 +641,7 @@ ul{
     .footer__item:nth-child(n){
         width: 50%;
         padding-left: 15%;
-    }        
+    }     
 }
 @media (max-width: 550px){
     .footer__items{
@@ -697,7 +693,11 @@ ul{
     }
     .reason__statistics-item:nth-child(n){
         width: 50%;
-      }
+    }
+    .reason__statistics-images{
+        width: 26%;
+        margin: 0 auto;
+    }
     .about{
         padding: 40px 0 0;
     }
